@@ -1,3 +1,17 @@
+## Documentation
+### Home Page
+![image](https://github.com/parisyaputri/pbkk/blob/848106ddfb500022af1ae4c60dfd7ca7d02b68af/assets/Screenshot%202024-09-12%20125023.png)
+### Blog Page
+![image](https://github.com/parisyaputri/pbkk/blob/848106ddfb500022af1ae4c60dfd7ca7d02b68af/assets/Screenshot%202024-09-12%20125028.png)
+## Contact Page
+![image](https://github.com/parisyaputri/pbkk/blob/848106ddfb500022af1ae4c60dfd7ca7d02b68af/assets/Screenshot%202024-09-12%20125034.png)
+## Contact Page
+![image](https://github.com/parisyaputri/pbkk/blob/64ec1fdab26ce60c558788d564d8ec74ec1a42fb/assets/Screenshot%202024-09-12%20125039.png)
+## Profile
+![image](https://github.com/parisyaputri/pbkk/blob/64ec1fdab26ce60c558788d564d8ec74ec1a42fb/assets/Screenshot%202024-09-12%20125046.png)
+## Mobile view
+![image](https://github.com/parisyaputri/pbkk/blob/64ec1fdab26ce60c558788d564d8ec74ec1a42fb/assets/Screenshot%202024-09-12%20125110.png)
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
