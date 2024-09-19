@@ -3,14 +3,18 @@
 ![image](https://github.com/parisyaputri/pbkk/blob/848106ddfb500022af1ae4c60dfd7ca7d02b68af/assets/Screenshot%202024-09-12%20125023.png)
 ### Blog Page
 ![image](https://github.com/parisyaputri/pbkk/blob/848106ddfb500022af1ae4c60dfd7ca7d02b68af/assets/Screenshot%202024-09-12%20125028.png)
-## Contact Page
-![image](https://github.com/parisyaputri/pbkk/blob/848106ddfb500022af1ae4c60dfd7ca7d02b68af/assets/Screenshot%202024-09-12%20125034.png)
+## About Page
+![Screenshot 2024-09-19 215815](https://github.com/user-attachments/assets/e5ecf258-8cd3-4959-a543-da33f8b72af2)
 ## Contact Page
 ![image](https://github.com/parisyaputri/pbkk/blob/64ec1fdab26ce60c558788d564d8ec74ec1a42fb/assets/Screenshot%202024-09-12%20125039.png)
 ## Profile
 ![image](https://github.com/parisyaputri/pbkk/blob/64ec1fdab26ce60c558788d564d8ec74ec1a42fb/assets/Screenshot%202024-09-12%20125046.png)
 ## Mobile view
 ![image](https://github.com/parisyaputri/pbkk/blob/64ec1fdab26ce60c558788d564d8ec74ec1a42fb/assets/Screenshot%202024-09-12%20125110.png)
+## Updated version of Blog
+![Screenshot 2024-09-19 215222](https://github.com/user-attachments/assets/fd6e4a8f-b66c-4175-8241-885d0448acb4)
+![Screenshot 2024-09-19 215232](https://github.com/user-attachments/assets/3828dc95-3553-4d0d-a503-5cc18173f149)
+
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
