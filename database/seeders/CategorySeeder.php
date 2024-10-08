@@ -16,27 +16,32 @@ class CategorySeeder extends Seeder
         // Category::factory(3)->create();
         Category::create([
             'name'=>'Sports',
-            'slug'=>'sports'
+            'slug'=>'sports',
+            'color' => 'red'
         ]);
 
         Category::create([
             'name'=>'Entertainment',
-            'slug'=>'entertainment'
+            'slug'=>'entertainment',
+            'color' => 'pink'
         ]);
 
         Category::create([
             'name'=>'News',
-            'slug'=>'news'
+            'slug'=>'news',
+            'color' => 'blue'
         ]);
 
         Category::create([
             'name'=>'Games',
-            'slug'=>'games'
+            'slug'=>'games',
+            'color' => 'yelow'
         ]);
 
         Category::create([
             'name'=>'Movies',
-            'slug'=>'movies'
+            'slug'=>'movies',
+            'color' => 'green'
         ]);
     }
 }
